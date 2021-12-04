@@ -1,9 +1,6 @@
 <pre>
-<a href="https://amzn.github.io/style-dictionary/#/version_3">What's new in Style Dictionary 3.0!</a>
+<a href="https://amzn.github.io/style-dictionary/#/version_3">What's new in Style Dictionary </a>
 </pre>
-
-
-For detailed usage head to https://amzn.github.io/style-dictionary
 
 ## Demo
 [![Demo]://Dictionary.notsaksh.repl.co)
