@@ -3,7 +3,7 @@
 </pre>
 
 ## Demo
-[![Demo]://Dictionary.notsaksh.repl.co)
+[Demo](//Dictionary.notsaksh.repl.co)
 
 ## Contents
 * [Installation](#installation)
