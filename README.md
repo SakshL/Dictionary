@@ -10,12 +10,6 @@
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/amzn/style-dictionary/Test?style=flat-square)](https://github.com/amzn/style-dictionary/actions/workflows/test.yml)
 [![downloads](https://img.shields.io/npm/dm/style-dictionary.svg?style=flat-square)](https://www.npmjs.com/package/style-dictionary)
 
-# Style Dictionary
-> *Style once, use everywhere.*
-A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language. It provides a single place to create and edit your styles, and exports these tokens to all the places you need - iOS, Android, CSS, JS, HTML, sketch files, style documentation, etc. It is available as a CLI through npm, but can also be used like any normal node module if you want to extend its functionality.
-
-When you are managing user experiences, it can be quite challenging to keep styles consistent and synchronized across multiple development platforms and devices. At the same time, designers, developers, PMs and others must be able to have consistent and up-to-date style documentation to enable effective work and communication. Even then, mistakes inevitably happen and the design may not be implemented accurately. Style Dictionary solves this by automatically generating style definitions across all platforms from a single source - removing roadblocks, errors, and inefficiencies across your workflow.
-
 For detailed usage head to https://amzn.github.io/style-dictionary
 
 ## Watch the Demo on Youtube
@@ -268,17 +262,3 @@ StyleDictionary.buildAllPlatforms();
 
 For more information on creating your own transforms and formats, take a look at our [docs](https://github.com/NotSaksh/Dictionary/).
 
-## Mascot
-
-The mascot for Style Dictionary is ["Pascal"](https://github.com/amzn/style-dictionary/issues/97) the chameleon (seen below). You can also find them blending in as the logo throughout the documentation.
-
-<img src="docs/assets/logo.png" alt="Style Dictionary logo and mascot" title="&quot;Pascal&quot;" width="240" />
-
-## Contributing
-
-Please help make this framework better. For more information take a look at [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
-## License
-
-[Apache 2.0](LICENSE)
